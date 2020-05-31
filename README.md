@@ -8,6 +8,8 @@ _____________________________________________
 This repo is made public for the educational purpose. Please do not spam anyone & do not misuse the code.
 </br>
 ### Instructions
-1. You need to have ChromeDriver installed beforehand running the program.
-2. After installing, run the code.
-3.
+- You need to have ChromeDriver installed beforehand running the program.
+- After installing, run the code in your text-editor.
+- It will ask to login to web version of whatsapp, use your phone to scan the QR code.
+- Once inside the platform, move to the terminal and input the name of person/group, then input the message.
+- That's it! Move to browser window to see the bot in action!
